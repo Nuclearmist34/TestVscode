@@ -1,3 +1,4 @@
 # Learn Git in VSCode
 
-- Git 
+- Push Git 
+- Pull Git
